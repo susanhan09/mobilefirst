@@ -1,0 +1,82 @@
+{
+  "platforms": [
+    {
+      "applicationKey": {
+        "version": "1.0.0",
+        "clientPlatform": "android",
+        "packageName": "com.mfp.weather"
+      },
+      "displayName": "app1",
+      "scopeElementMapping": {
+        "push.mobileclient": "",
+        "liveupdate.mobileclient": ""
+      }
+    }
+  ],
+  "services": [
+    {
+      "settings": {
+        "gcm": {
+          "senderId": "727139127273",
+          "apiKey": "AAAAqUzej-k:APA91bHe1ng1xlIezN4VzfOdi81jJ5KArc4Rb0sP17OGTZXg0ck3qkDX6h6iYJCzaHbIjyuCZkAgjELKu1EgSDbArhNEmCVvuCqS0h3ZzceuJx7jbD0wy4-AdBnWRG3H2a2crMjAJqpz"
+        }
+      },
+      "name": "push"
+    },
+    {
+      "schema": {
+        "features": {
+          "feature1": {
+            "internalId": "5d7f80af-b12e-46a0-8171-7a9d984c2551",
+            "name": "feature1",
+            "description": null,
+            "defaultValue": true,
+            "value": null
+          }
+        },
+        "properties": {
+          "property1": {
+            "internalId": "30c101d0-b784-4fb2-a69e-473eae430b59",
+            "name": "property1",
+            "description": null,
+            "defaultValue": "1",
+            "value": null
+          }
+        }
+      },
+      "name": "liveupdate"
+    }
+  ],
+  "confidentialClients": [
+    {
+      "id": "test",
+      "displayName": "Test Client",
+      "secret": "test",
+      "allowedScope": "*"
+    },
+    {
+      "id": "admin",
+      "displayName": "admin",
+      "secret": "nimda",
+      "allowedScope": "push.* mfp.admin.plugins settings.read settings.write chromeWebConf.read chromeWebConf.write firefoxWebConf.read firefoxWebConf.write safariWebConf.write safariWebConf.read liveupdate.*"
+    },
+    {
+      "id": "push",
+      "displayName": "push",
+      "secret": "hsup",
+      "allowedScope": "authorization.introspect"
+    },
+    {
+      "id": "liveupdate",
+      "displayName": "liveupdate",
+      "secret": "etadpuevil",
+      "allowedScope": "authorization.introspect"
+    },
+    {
+      "id": "liveupdatedab",
+      "displayName": "Live Update",
+      "secret": "dabetadpuevil",
+      "allowedScope": "liveupdate.mobileclient"
+    }
+  ]
+}

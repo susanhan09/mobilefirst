@@ -1,0 +1,721 @@
+Project created on Fri Jul 24 2020, 19:42:17 GMT+0800 (China Standard Time)
+
+ Info | datasourceDB | init | Fri Jul 24 2020, 19:42:17 GMT+0800 (China Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Fri Jul 24 2020, 19:42:17 GMT+0800 (China Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Fri Jul 24 2020, 19:42:17 GMT+0800 (China Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Fri Jul 24 2020, 19:42:17 GMT+0800 (China Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Fri Jul 24 2020, 19:42:17 GMT+0800 (China Standard Time) | App DB initialized
+ Info | settingsDB | init | Fri Jul 24 2020, 19:42:17 GMT+0800 (China Standard Time) | SettingsDB initialized
+Success | projectHandler | createIonicProject | Fri Jul 24 2020, 19:42:17 GMT+0800 (China Standard Time) | Initialized all the DB's
+Success | projectHandler | createIonicProject | Fri Jul 24 2020, 19:42:18 GMT+0800 (China Standard Time) | Project created on file system.
+Success | projectHandler | createIonicProject | Fri Jul 24 2020, 19:42:18 GMT+0800 (China Standard Time) | Added app title to index.html
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:42:18 GMT+0800 (China Standard Time) | Added bundle id to config.xml
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:42:18 GMT+0800 (China Standard Time) | Copying over required plugins including mfp plugin
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:42:18 GMT+0800 (China Standard Time) | Unzip start: 7:42:18 PM
+Success | projectHandler | createIonicProject | Fri Jul 24 2020, 19:42:24 GMT+0800 (China Standard Time) | Copied over required app-build.json file
+Success | projectHandler | createIonicProject | Fri Jul 24 2020, 19:42:39 GMT+0800 (China Standard Time) | Copied over required node modules
+Success | projectHandler | createIonicProject | Fri Jul 24 2020, 19:42:39 GMT+0800 (China Standard Time) | Copied over required plugins
+Success | projectHandler | createIonicProject | Fri Jul 24 2020, 19:43:17 GMT+0800 (China Standard Time) | Copied over required cordova-plugin-mfp
+Success | projectHandler | createIonicProject | Fri Jul 24 2020, 19:43:17 GMT+0800 (China Standard Time) | Unzip finish: 7:43:17 PM
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:43:17 GMT+0800 (China Standard Time) | Installing dependencies and adding platform
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:43:17 GMT+0800 (China Standard Time) | Running npm install
+ Error | projectHandler | createIonicProject | Fri Jul 24 2020, 19:43:44 GMT+0800 (China Standard Time) | npm WARN deprecated
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:290926)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Jul 24 2020, 19:43:44 GMT+0800 (China Standard Time) |  @angular/http@5.2.11: Package no longer supported. Use @angular/common instead, see https://angular.io/guide/deprecations#angularhttp
+
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:290926)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Jul 24 2020, 19:43:46 GMT+0800 (China Standard Time) | npm WARN deprecated sw-toolbox@3.6.0: Please migrate to Workbox: https://developers.google.com/web/tools/workbox/guides/migrations/migrate-from-sw
+
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:290926)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Jul 24 2020, 19:43:46 GMT+0800 (China Standard Time) | npm 
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:290926)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Jul 24 2020, 19:43:46 GMT+0800 (China Standard Time) | WARN deprecated chokidar@1.7.0: Chokidar 2 will break on node v14+. Upgrade to chokidar 3 with 15x less dependencies.
+
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:290926)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Jul 24 2020, 19:43:47 GMT+0800 (China Standard Time) | npm WARN
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:290926)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Jul 24 2020, 19:43:47 GMT+0800 (China Standard Time) |  deprecated request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
+npm WARN deprecated chokidar@2.1.8: Chokidar 2 will break on node v14+. Upgrade to chokidar 3 with 15x less dependencies.
+
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:290926)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Jul 24 2020, 19:43:48 GMT+0800 (China Standard Time) | npm WARN
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:290926)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Jul 24 2020, 19:43:48 GMT+0800 (China Standard Time) |  deprecated rollup-plugin-commonjs@8.2.6: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-commonjs.
+
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:290926)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Jul 24 2020, 19:43:48 GMT+0800 (China Standard Time) | npm WARN 
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:290926)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Jul 24 2020, 19:43:49 GMT+0800 (China Standard Time) | deprecated rollup-plugin-node-resolve@3.0.0: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-node-resolve.
+
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:290926)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Jul 24 2020, 19:43:49 GMT+0800 (China Standard Time) | npm
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:290926)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Jul 24 2020, 19:43:49 GMT+0800 (China Standard Time) |  WARN deprecated fsevents@1.2.13: fsevents 1 will break on node v14+ and could be using insecure binaries. Upgrade to fsevents 2.
+
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:290926)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Jul 24 2020, 19:43:50 GMT+0800 (China Standard Time) | npm WARN deprecated node-uuid@1.4.7: Use uuid module instead
+
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:290926)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Jul 24 2020, 19:43:52 GMT+0800 (China Standard Time) | npm WARN deprecated browserslist@2.11.3: Browserslist 2 could fail on reading Browserslist >3.0 config used in other tools.
+
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:290926)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Jul 24 2020, 19:43:57 GMT+0800 (China Standard Time) | npm WARN deprecated lodash-node@2.4.1: This package is discontinued. Use lodash@^4.0.0.
+
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:290926)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Jul 24 2020, 19:44:10 GMT+0800 (China Standard Time) | npm WARN deprecated resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
+
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:290926)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Fri Jul 24 2020, 19:44:10 GMT+0800 (China Standard Time) | npm WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:290926)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:48:54 GMT+0800 (China Standard Time) | 
+> node-sass@4.14.1 install C:\Users\ShuHuiHan\Desktop\GSSC\IBMCloud\Digital App Builder\app1\ionic\node_modules\node-sass
+> node scripts/install.js
+
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:48:58 GMT+0800 (China Standard Time) | Cached binary found at C:\Users\ShuHuiHan\AppData\Roaming\npm-cache\node-sass\4.14.1\win32-x64-64_binding.node
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:48:59 GMT+0800 (China Standard Time) | 
+> uglifyjs-webpack-plugin@0.4.6 postinstall C:\Users\ShuHuiHan\Desktop\GSSC\IBMCloud\Digital App Builder\app1\ionic\node_modules\uglifyjs-webpack-plugin
+> node lib/post_install.js
+
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:48:59 GMT+0800 (China Standard Time) | 
+> node-sass@4.14.1 postinstall C:\Users\ShuHuiHan\Desktop\GSSC\IBMCloud\Digital App Builder\app1\ionic\node_modules\node-sass
+> node scripts/build.js
+
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:48:59 GMT+0800 (China Standard Time) | Binary found at C:\Users\ShuHuiHan\Desktop\GSSC\IBMCloud\Digital App Builder\app1\ionic\node_modules\node-sass\vendor\win32-x64-64\binding.node
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:48:59 GMT+0800 (China Standard Time) | Testing binary
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:49:00 GMT+0800 (China Standard Time) | Binary is fine
+
+ Error | projectHandler | createIonicProject | Fri Jul 24 2020, 19:49:02 GMT+0800 (China Standard Time) | npm notice created a lockfile as package-lock.json. You should commit this file.
+
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:290926)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:49:02 GMT+0800 (China Standard Time) | added 1037 packages from 707 contributors and audited 1048 packages in 324.844s
+found 70 vulnerabilities (23 low, 17 moderate, 30 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+ Error | projectHandler | createIonicProject | Fri Jul 24 2020, 19:49:02 GMT+0800 (China Standard Time) | npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@^1.0.0 (node_modules\chokidar\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@~2.1.2 (node_modules\watchpack\node_modules\chokidar\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:290926)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:49:10 GMT+0800 (China Standard Time) | √ Creating .\www directory for you - done!
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:49:10 GMT+0800 (China Standard Time) | > cordova plugin add "C:\Users\ShuHuiHan\Desktop\GSSC\IBMCloud\Digital App Builder\app1\ionic\mfp-plugin\cordova-plugin-mfp" --save
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:51:19 GMT+0800 (China Standard Time) | Adding cordova-plugin-mfp to package.json
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:51:22 GMT+0800 (China Standard Time) | > cordova platform add android --save
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:51:25 GMT+0800 (China Standard Time) | Using cordova-fetch for cordova-android@^8.0.0
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:51:58 GMT+0800 (China Standard Time) | Adding android project...
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:51:59 GMT+0800 (China Standard Time) | Creating Cordova project for the Android platform:
+	Path: platforms\android
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:51:59 GMT+0800 (China Standard Time) | 	Package: com.mfp.test
+	Name: app1
+	Activity: MainActivity
+	Android target: android-28
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:02 GMT+0800 (China Standard Time) | Subproject Path: CordovaLib
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:02 GMT+0800 (China Standard Time) | Subproject Path: app
+Android project created with cordova-android@8.1.0
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:03 GMT+0800 (China Standard Time) | Installing "cordova-plugin-device" for android
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:04 GMT+0800 (China Standard Time) | Installing "cordova-plugin-dialogs" for android
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:04 GMT+0800 (China Standard Time) | Installing "cordova-plugin-globalization" for android
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:05 GMT+0800 (China Standard Time) | Installing "cordova-plugin-ionic-keyboard" for android
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:06 GMT+0800 (China Standard Time) | Installing "cordova-plugin-ionic-webview" for android
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:07 GMT+0800 (China Standard Time) | Subproject Path: CordovaLib
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:07 GMT+0800 (China Standard Time) | Subproject Path: app
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:07 GMT+0800 (China Standard Time) | Installing "cordova-plugin-mfp" for android
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:07 GMT+0800 (China Standard Time) | Plugin dependency "cordova-plugin-device@2.0.2" already fetched, using that version.
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:07 GMT+0800 (China Standard Time) | Dependent plugin "cordova-plugin-device" already installed on android.
+Plugin dependency "cordova-plugin-dialogs@2.0.1" already fetched, using that version.
+Dependent plugin "cordova-plugin-dialogs" already installed on android.
+Plugin dependency "cordova-plugin-globalization@1.11.0" already fetched, using that version.
+Dependent plugin "cordova-plugin-globalization" already installed on android.
+Plugin dependency "cordova-plugin-okhttp@2.0.0" already fetched, using that version.
+Installing "cordova-plugin-okhttp" for android
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:08 GMT+0800 (China Standard Time) | Subproject Path: CordovaLib
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:08 GMT+0800 (China Standard Time) | Subproject Path: app
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:13 GMT+0800 (China Standard Time) | Subproject Path: CordovaLib
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:13 GMT+0800 (China Standard Time) | Subproject Path: app
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:13 GMT+0800 (China Standard Time) | MainActivity.java was backed up as MainActivity.original. A MobileFirst Platform Foundation version of MainActivity.java was added. If you have made changes in the original MainActivity.java, you need to merge them with the current MainActivity.java in the C:\Users\ShuHuiHan\Desktop\GSSC\IBMCloud\Digital App Builder\app1\ionic\platforms\android\app\src\main\java\com\mfp\test directory.
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:14 GMT+0800 (China Standard Time) | Dependent plugin "cordova-plugin-okhttp" already installed on android.
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:14 GMT+0800 (China Standard Time) | Installing "cordova-plugin-splashscreen" for android
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:15 GMT+0800 (China Standard Time) | Installing "cordova-plugin-statusbar" for android
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:15 GMT+0800 (China Standard Time) | Installing "cordova-plugin-whitelist" for android
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:15 GMT+0800 (China Standard Time) | 
+               This plugin is only applicable for versions of cordova-android greater than 4.0. If you have a previous platform version, you do *not* need this plugin since the whitelist will be built in.
+          
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:15 GMT+0800 (China Standard Time) | Plugin 'cordova-plugin-whitelist' found in config.xml... Migrating it to package.json
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:15 GMT+0800 (China Standard Time) | Plugin 'cordova-plugin-device' found in config.xml... Migrating it to package.json
+Plugin 'cordova-plugin-statusbar' found in config.xml... Migrating it to package.json
+Plugin 'cordova-plugin-splashscreen' found in config.xml... Migrating it to package.json
+Plugin 'cordova-plugin-ionic-webview' found in config.xml... Migrating it to package.json
+Plugin 'cordova-plugin-ionic-keyboard' found in config.xml... Migrating it to package.json
+
+ Info | projectHandler | createIonicProject | Fri Jul 24 2020, 19:52:24 GMT+0800 (China Standard Time) | > ionic-app-scripts build --target cordova --platform android
+
+ Info | projectHandler | loadProjectDatabase | Fri Jul 24 2020, 19:53:24 GMT+0800 (China Standard Time) | Initializing DBs for workspace  C:\Users\ShuHuiHan\Desktop\GSSC\IBMCloud\Digital App Builder/app1
+ Info | datasourceDB | init | Fri Jul 24 2020, 19:53:24 GMT+0800 (China Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Fri Jul 24 2020, 19:53:24 GMT+0800 (China Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Fri Jul 24 2020, 19:53:24 GMT+0800 (China Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Fri Jul 24 2020, 19:53:24 GMT+0800 (China Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Fri Jul 24 2020, 19:53:24 GMT+0800 (China Standard Time) | App DB initialized
+ Info | settingsDB | init | Fri Jul 24 2020, 19:53:24 GMT+0800 (China Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Fri Jul 24 2020, 19:53:24 GMT+0800 (China Standard Time) | Initialized all the DBs
+Success | CreatingAppActions | createNewAppOnServer | Fri Jul 24 2020, 19:53:38 GMT+0800 (China Standard Time) | App created on the server successfully for 'android' platform
+ Info | ImportExportConfig | exportAppConfiguration | Fri Jul 24 2020, 19:53:38 GMT+0800 (China Standard Time) | Exported project configuration successfully
+ Info | IonicTopBar | prepareAppForPreview | Fri Jul 24 2020, 19:56:23 GMT+0800 (China Standard Time) | Sip on your coffee while we prepare your app
+ Info | IonicTopBar | prepareAppForPreview | Fri Jul 24 2020, 19:56:23 GMT+0800 (China Standard Time) | Running ionic cordova prepare... sit back and relax
+ Info | IonicTopBar | prepareAppForPreview | Fri Jul 24 2020, 19:56:23 GMT+0800 (China Standard Time) | Updated bundle ID in config.xml.
+ Info | IonicTopBar | prepareAppForPreview | Fri Jul 24 2020, 19:56:23 GMT+0800 (China Standard Time) | Updated version in config.xml.
+ Info | IonicTopBar | prepareAppForPreview | Fri Jul 24 2020, 19:56:23 GMT+0800 (China Standard Time) | Updated MFP server URL in config.xml.
+ Info | IonicTopBar | prepareAppForPreview | Fri Jul 24 2020, 19:56:23 GMT+0800 (China Standard Time) | MFP server URL updated is : http://127.0.0.1:9080 
+ Info | IonicTopBar | prepareAppForPreview | Fri Jul 24 2020, 19:56:23 GMT+0800 (China Standard Time) | Config.xml is updated
+ Info | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:23 GMT+0800 (China Standard Time) | Trying to shut down previous process
+ Info | updatePreviewState | undefined | Fri Jul 24 2020, 19:56:23 GMT+0800 (China Standard Time) | undefined
+ Info | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:25 GMT+0800 (China Standard Time) | > ionic-app-scripts build --target cordova --platform android
+
+ Info | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:29 GMT+0800 (China Standard Time) | [19:56:29]  ionic-app-scripts 3.2.4 
+
+ Info | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:29 GMT+0800 (China Standard Time) | [19:56:29]  build dev started ... 
+
+ Info | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:29 GMT+0800 (China Standard Time) | [19:56:29]  clean started ... 
+
+ Info | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:29 GMT+0800 (China Standard Time) | [19:56:29]  clean finished in 61 ms 
+[19:56:29]  copy started ... 
+
+ Info | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:30 GMT+0800 (China Standard Time) | [19:56:30]  deeplinks started ... 
+
+ Info | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:30 GMT+0800 (China Standard Time) | [19:56:30]  deeplinks finished in 82 ms 
+[19:56:30]  transpile started ... 
+
+ Info | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:36 GMT+0800 (China Standard Time) | [19:56:36]  transpile finished in 6.05 s 
+[19:56:36]  preprocess started ... 
+
+ Info | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:36 GMT+0800 (China Standard Time) | [19:56:36]  preprocess finished in less than 1 ms 
+[19:56:36]  webpack started ... 
+
+ Info | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:36 GMT+0800 (China Standard Time) | [19:56:36]  copy finished in 6.79 s 
+
+ Info | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:41 GMT+0800 (China Standard Time) | [19:56:41]  webpack finished in 4.61 s 
+
+ Info | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:41 GMT+0800 (China Standard Time) | [19:56:41]  sass started ... 
+
+ Info | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:43 GMT+0800 (China Standard Time) | [19:56:43]  sass finished in 2.06 s 
+
+ Info | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:43 GMT+0800 (China Standard Time) | [19:56:43]  postprocess started ... 
+[19:56:43]  postprocess finished in 14 ms 
+[19:56:43]  lint started ... 
+[19:56:43]  build dev finished in 13.55 s 
+
+ Error | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:47 GMT+0800 (China Standard Time) | [33m[19:56:47]  tslint: ...iHan/Desktop/GSSC/IBMCloud/Digital App Builder/app1/ionic/src/pages/home/home.ts, line: 1 [39m
+
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:4434:13238)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:47 GMT+0800 (China Standard Time) |             'NgZone' is declared but its value is never read. 
+
+[2m       L1:  [22mimport { Component, Renderer, [41mN[49m[41mg[49m[41mZ[49m[41mo[49m[41mn[49m[41me[49m } from "@angular/core";
+[2m       L2:  [22mimport { NavController, ModalController } from "ionic-angular";
+
+            'ModalController' is declared but its value is never read. 
+
+[2m       L1:  [22mimport { Component, Renderer, NgZone } from "@angular/core";
+[2m       L2:  [22mimport { NavController, [41mM[49m[41mo[49m[41md[49m[41ma[49m[41ml[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from "ionic-angular";
+[2m       L3:  [22mimport { DataStore } from "../../app/dataStore";
+
+            Property 'renderer' is declared but its value is never read. 
+
+[2m      L27:  [22mar: StatusBar, public splashScreen: SplashScreen, private [41mr[49m[41me[49m[41mn[49m[41md[49m[41me[49m[41mr[49m[41me[49m[41mr[49m: Renderer, private cdr: ChangeDetectorRef
+[2m      L28:  [22m    renderer.listenGlobal('document', 'mfpjsloaded', () => {
+
+            Property 'cdr' is declared but its value is never read. 
+
+[2m      L27:  [22mreen: SplashScreen, private renderer: Renderer, private [41mc[49m[41md[49m[41mr[49m: ChangeDetectorRef,private liveUpdateService:Liv
+[2m      L28:  [22m    renderer.listenGlobal('document', 'mfpjsloaded', () => {
+
+            Property 'liveUpdateService' is declared but its value is never read. 
+
+[2m      L27:  [22m, private renderer: Renderer, private cdr: ChangeDetectorRef,private [41ml[49m[41mi[49m[41mv[49m[41me[49m[41mU[49m[41mp[49m[41md[49m[41ma[49m[41mt[49m[41me[49m[41mS[49m[41me[49m[41mr[49m[41mv[49m[41mi[49m[41mc[49m[41me[49m:LiveUpdateProvider) {
+[2m      L28:  [22m    renderer.listenGlobal('document', 'mfpjsloaded', () => {
+
+[19:56:47]  lint finished in 4.28 s 
+> cordova run android
+
+ Error | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:47 GMT+0800 (China Standard Time) | [33m[19:56:47]  tslint: ...iHan/Desktop/GSSC/IBMCloud/Digital App Builder/app1/ionic/src/pages/home/home.ts, line: 2 [39m
+[33m[19:56:47]  tslint: ...an/Desktop/GSSC/IBMCloud/Digital App Builder/app1/ionic/src/app/app.component.ts, line: 27 [39m
+[33m[19:56:47]  tslint: ...an/Desktop/GSSC/IBMCloud/Digital App Builder/app1/ionic/src/app/app.component.ts, line: 27 [39m
+[33m[19:56:47]  tslint: ...an/Desktop/GSSC/IBMCloud/Digital App Builder/app1/ionic/src/app/app.component.ts, line: 27 [39m
+
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:4434:13238)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:55 GMT+0800 (China Standard Time) | Checking Java JDK and Android SDK versions
+
+ Info | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:55 GMT+0800 (China Standard Time) | ANDROID_SDK_ROOT=undefined (recommended setting)
+ANDROID_HOME=C:\Users\ShuHuiHan\AppData\Local\Android\Sdk (DEPRECATED)
+
+ Info | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:55 GMT+0800 (China Standard Time) | Could not find an installed version of Gradle either in Android Studio,
+or on your system to install the gradle wrapper. Please include gradle 
+in your path, or install Android Studio
+
+ Error | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:55 GMT+0800 (China Standard Time) | [ERROR] An error occurred while running subprocess cordova.
+        
+        cordova run android exited with exit code 1.
+        
+        Re-running this command with the --verbose flag may provide more information.
+
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at Socket.<anonymous> (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:4434:13238)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | IonicTopBar | updatePreviewState | Fri Jul 24 2020, 19:56:55 GMT+0800 (China Standard Time) | Error: Preview on Emulator failed.
+ Info | projectHandler | loadProjectDatabase | Sat Jul 25 2020, 14:42:32 GMT+0800 (中国标准时间) | 正在初始化工作空间的数据库 C:\Users\ShuHuiHan\Desktop\GSSC\IBMCloud\Digital App Builder/app1
+ Info | datasourceDB | init | Sat Jul 25 2020, 14:42:32 GMT+0800 (中国标准时间) | 已初始化数据源数据库
+ Info | dsActionsDB | init | Sat Jul 25 2020, 14:42:33 GMT+0800 (中国标准时间) | 已初始化数据源操作数据库
+ Info | dsAttributesDB | init | Sat Jul 25 2020, 14:42:33 GMT+0800 (中国标准时间) | 已初始化数据源属性数据库
+ Info | dsActionsMoreDB | init | Sat Jul 25 2020, 14:42:33 GMT+0800 (中国标准时间) | 已初始化数据源更多操作数据库
+ Info | appDB | init | Sat Jul 25 2020, 14:42:33 GMT+0800 (中国标准时间) | 已初始化应用程序数据库
+ Info | settingsDB | init | Sat Jul 25 2020, 14:42:33 GMT+0800 (中国标准时间) | 已初始化设置数据库
+Success | projectHandler | loadProjectDatabase | Sat Jul 25 2020, 14:42:33 GMT+0800 (中国标准时间) | 已初始化所有数据库
+ Error | CreatingAppActions | checkAndCreateNewAppOnServer | Sat Jul 25 2020, 14:42:54 GMT+0800 (中国标准时间) | 无法从服务器访存应用程序
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:29237 Error | CreatingAppActions | checkAndCreateNewAppOnServer | Sat Jul 25 2020, 14:42:54 GMT+0800 (中国标准时间) | {
+  "config": {
+    "transformRequest": {},
+    "transformResponse": {},
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "Authorization": "Basic YWRtaW46YWRtaW4="
+    },
+    "method": "get",
+    "auth": {
+      "username": "admin",
+      "password": "admin"
+    },
+    "url": "http://127.0.0.1:9080/mfpadmin/management-apis/2.0/runtimes/mfp/applications/com.mfp.test/android/1.0.0"
+  },
+  "request": {},
+  "response": {
+    "data": {
+      "productVersion": "8.0.0.00-20200629-101540",
+      "message": "FWLSE3000E: 检测到服务器错误。",
+      "additionalMessage": "FWLSE3041E: 找不到 MobileFirst 项目“mfp”的 MBean。 MobileFirst 项目“mfp”的 MobileFirst 运行时 Web 应用程序可能没有运行。 如果 Web 应用程序正在运行，请使用 JConsole 检查可用的 MBean。 如果没有运行，可以从服务器的日志文件中查看完整的错误详细信息。"
+    },
+    "status": 500,
+    "statusText": "Internal Server Error",
+    "headers": {
+      "cache-control": "no-cache, no-transform",
+      "connection": "Close",
+      "content-length": "448",
+      "content-type": "application/json",
+      "date": "Sat, 25 Jul 2020 06:42:54 GMT",
+      "expires": "Thu, 01 Dec 1994 16:00:00 GMT",
+      "x-powered-by": "Servlet/3.1"
+    },
+    "config": {
+      "transformRequest": {},
+      "transformResponse": {},
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Authorization": "Basic YWRtaW46YWRtaW4="
+      },
+      "method": "get",
+      "auth": {
+        "username": "admin",
+        "password": "admin"
+      },
+      "url": "http://127.0.0.1:9080/mfpadmin/management-apis/2.0/runtimes/mfp/applications/com.mfp.test/android/1.0.0"
+    },
+    "request": {}
+  }
+}
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:29339 Info | projectHandler | loadProjectDatabase | Sat Jul 25 2020, 15:42:01 GMT+0800 (中国标准时间) | 正在初始化工作空间的数据库 C:\Users\ShuHuiHan\Desktop\GSSC\IBMCloud\Digital App Builder/app1
+ Info | datasourceDB | init | Sat Jul 25 2020, 15:42:01 GMT+0800 (中国标准时间) | 已初始化数据源数据库
+ Info | dsActionsDB | init | Sat Jul 25 2020, 15:42:01 GMT+0800 (中国标准时间) | 已初始化数据源操作数据库
+ Info | dsAttributesDB | init | Sat Jul 25 2020, 15:42:01 GMT+0800 (中国标准时间) | 已初始化数据源属性数据库
+ Info | dsActionsMoreDB | init | Sat Jul 25 2020, 15:42:01 GMT+0800 (中国标准时间) | 已初始化数据源更多操作数据库
+ Info | appDB | init | Sat Jul 25 2020, 15:42:01 GMT+0800 (中国标准时间) | 已初始化应用程序数据库
+ Info | settingsDB | init | Sat Jul 25 2020, 15:42:01 GMT+0800 (中国标准时间) | 已初始化设置数据库
+Success | projectHandler | loadProjectDatabase | Sat Jul 25 2020, 15:42:01 GMT+0800 (中国标准时间) | 已初始化所有数据库
+ Info | projectHandler | loadProjectDatabase | Sat Jul 25 2020, 15:42:01 GMT+0800 (中国标准时间) | 正在初始化工作空间的数据库 C:\Users\ShuHuiHan\Desktop\GSSC\IBMCloud\Digital App Builder/app1
+ Info | datasourceDB | init | Sat Jul 25 2020, 15:42:01 GMT+0800 (中国标准时间) | 已初始化数据源数据库
+ Info | dsActionsDB | init | Sat Jul 25 2020, 15:42:01 GMT+0800 (中国标准时间) | 已初始化数据源操作数据库
+ Info | dsAttributesDB | init | Sat Jul 25 2020, 15:42:01 GMT+0800 (中国标准时间) | 已初始化数据源属性数据库
+ Info | dsActionsMoreDB | init | Sat Jul 25 2020, 15:42:01 GMT+0800 (中国标准时间) | 已初始化数据源更多操作数据库
+ Info | appDB | init | Sat Jul 25 2020, 15:42:01 GMT+0800 (中国标准时间) | 已初始化应用程序数据库
+ Info | settingsDB | init | Sat Jul 25 2020, 15:42:01 GMT+0800 (中国标准时间) | 已初始化设置数据库
+Success | projectHandler | loadProjectDatabase | Sat Jul 25 2020, 15:42:01 GMT+0800 (中国标准时间) | 已初始化所有数据库
+ Error | projectHandler | createReactNativeProject | Sat Jul 25 2020, 15:42:07 GMT+0800 (中国标准时间) | {
+  "killed": false,
+  "code": 128,
+  "signal": null,
+  "cmd": "taskkill /pid 16792 /T /F"
+}
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:271734
+    at ChildProcess.exithandler (child_process.js:315:5)
+    at ChildProcess.emit (events.js:203:13)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:283:5) Info | projectHandler | loadProjectDatabase | Sat Jul 25 2020, 15:42:48 GMT+0800 (中国标准时间) | 正在初始化工作空间的数据库 C:\Users\ShuHuiHan\Desktop\GSSC\IBMCloud\Digital App Builder/app1
+ Info | datasourceDB | init | Sat Jul 25 2020, 15:42:48 GMT+0800 (中国标准时间) | 已初始化数据源数据库
+ Info | dsActionsDB | init | Sat Jul 25 2020, 15:42:48 GMT+0800 (中国标准时间) | 已初始化数据源操作数据库
+ Info | dsAttributesDB | init | Sat Jul 25 2020, 15:42:48 GMT+0800 (中国标准时间) | 已初始化数据源属性数据库
+ Info | dsActionsMoreDB | init | Sat Jul 25 2020, 15:42:48 GMT+0800 (中国标准时间) | 已初始化数据源更多操作数据库
+ Info | appDB | init | Sat Jul 25 2020, 15:42:48 GMT+0800 (中国标准时间) | 已初始化应用程序数据库
+ Info | settingsDB | init | Sat Jul 25 2020, 15:42:48 GMT+0800 (中国标准时间) | 已初始化设置数据库
+Success | projectHandler | loadProjectDatabase | Sat Jul 25 2020, 15:42:48 GMT+0800 (中国标准时间) | 已初始化所有数据库
+ Error | projectHandler | createReactNativeProject | Sat Jul 25 2020, 15:43:14 GMT+0800 (中国标准时间) | {
+  "killed": false,
+  "code": 128,
+  "signal": null,
+  "cmd": "taskkill /pid 16792 /T /F"
+}
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:271734
+    at ChildProcess.exithandler (child_process.js:315:5)
+    at ChildProcess.emit (events.js:203:13)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:283:5) Info | projectHandler | loadProjectDatabase | Sat Jul 25 2020, 15:48:48 GMT+0800 (中国标准时间) | 正在初始化工作空间的数据库 C:\Users\ShuHuiHan\Desktop\GSSC\IBMCloud\Digital App Builder/app1
+ Info | datasourceDB | init | Sat Jul 25 2020, 15:48:48 GMT+0800 (中国标准时间) | 已初始化数据源数据库
+ Info | dsActionsDB | init | Sat Jul 25 2020, 15:48:48 GMT+0800 (中国标准时间) | 已初始化数据源操作数据库
+ Info | dsAttributesDB | init | Sat Jul 25 2020, 15:48:48 GMT+0800 (中国标准时间) | 已初始化数据源属性数据库
+ Info | dsActionsMoreDB | init | Sat Jul 25 2020, 15:48:48 GMT+0800 (中国标准时间) | 已初始化数据源更多操作数据库
+ Info | appDB | init | Sat Jul 25 2020, 15:48:48 GMT+0800 (中国标准时间) | 已初始化应用程序数据库
+ Info | settingsDB | init | Sat Jul 25 2020, 15:48:48 GMT+0800 (中国标准时间) | 已初始化设置数据库
+Success | projectHandler | loadProjectDatabase | Sat Jul 25 2020, 15:48:48 GMT+0800 (中国标准时间) | 已初始化所有数据库
+ Error | projectHandler | createReactNativeProject | Sat Jul 25 2020, 15:48:52 GMT+0800 (中国标准时间) | {
+  "killed": false,
+  "code": 128,
+  "signal": null,
+  "cmd": "taskkill /pid 16792 /T /F"
+}
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:271734
+    at ChildProcess.exithandler (child_process.js:315:5)
+    at ChildProcess.emit (events.js:203:13)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:283:5) Info | projectHandler | loadProjectDatabase | Sat Jul 25 2020, 16:20:19 GMT+0800 (中国标准时间) | 正在初始化工作空间的数据库 C:\Users\ShuHuiHan\Desktop\GSSC\IBMCloud\Digital App Builder/app1
+ Info | datasourceDB | init | Sat Jul 25 2020, 16:20:19 GMT+0800 (中国标准时间) | 已初始化数据源数据库
+ Info | dsActionsDB | init | Sat Jul 25 2020, 16:20:19 GMT+0800 (中国标准时间) | 已初始化数据源操作数据库
+ Info | dsAttributesDB | init | Sat Jul 25 2020, 16:20:19 GMT+0800 (中国标准时间) | 已初始化数据源属性数据库
+ Info | dsActionsMoreDB | init | Sat Jul 25 2020, 16:20:19 GMT+0800 (中国标准时间) | 已初始化数据源更多操作数据库
+ Info | appDB | init | Sat Jul 25 2020, 16:20:19 GMT+0800 (中国标准时间) | 已初始化应用程序数据库
+ Info | settingsDB | init | Sat Jul 25 2020, 16:20:19 GMT+0800 (中国标准时间) | 已初始化设置数据库
+Success | projectHandler | loadProjectDatabase | Sat Jul 25 2020, 16:20:19 GMT+0800 (中国标准时间) | 已初始化所有数据库
+ Info | LiveUpdateActions | fetchSchema | Sat Jul 25 2020, 16:20:20 GMT+0800 (中国标准时间) | 正在访存模式
+ Info | LiveUpdateActions | getAccessToken | Sat Jul 25 2020, 16:20:20 GMT+0800 (中国标准时间) | 正在获取访问令牌
+ Info | LiveUpdateActions | fetchSchema | Sat Jul 25 2020, 16:20:21 GMT+0800 (中国标准时间) | 已成功获取访问令牌
+ Info | LiveUpdateActions | fetchSchema | Sat Jul 25 2020, 16:20:21 GMT+0800 (中国标准时间) | 已成功访存模式
+ Info | ImportExportConfig | exportLiveUpdateConfiguration | Sat Jul 25 2020, 16:20:21 GMT+0800 (中国标准时间) | 已成功导出项目配置
+ Error | projectHandler | createReactNativeProject | Sat Jul 25 2020, 16:20:25 GMT+0800 (中国标准时间) | {
+  "killed": false,
+  "code": 128,
+  "signal": null,
+  "cmd": "taskkill /pid 16792 /T /F"
+}
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:271734
+    at ChildProcess.exithandler (child_process.js:315:5)
+    at ChildProcess.emit (events.js:203:13)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:283:5) Info | projectHandler | loadProjectDatabase | Sat Jul 25 2020, 16:20:42 GMT+0800 (中国标准时间) | 正在初始化工作空间的数据库 C:\Users\ShuHuiHan\Desktop\GSSC\IBMCloud\Digital App Builder/app1
+ Info | datasourceDB | init | Sat Jul 25 2020, 16:20:42 GMT+0800 (中国标准时间) | 已初始化数据源数据库
+ Info | dsActionsDB | init | Sat Jul 25 2020, 16:20:42 GMT+0800 (中国标准时间) | 已初始化数据源操作数据库
+ Info | dsAttributesDB | init | Sat Jul 25 2020, 16:20:42 GMT+0800 (中国标准时间) | 已初始化数据源属性数据库
+ Info | dsActionsMoreDB | init | Sat Jul 25 2020, 16:20:42 GMT+0800 (中国标准时间) | 已初始化数据源更多操作数据库
+ Info | appDB | init | Sat Jul 25 2020, 16:20:42 GMT+0800 (中国标准时间) | 已初始化应用程序数据库
+ Info | settingsDB | init | Sat Jul 25 2020, 16:20:42 GMT+0800 (中国标准时间) | 已初始化设置数据库
+Success | projectHandler | loadProjectDatabase | Sat Jul 25 2020, 16:20:42 GMT+0800 (中国标准时间) | 已初始化所有数据库
+ Info | LiveUpdateActions | fetchSchema | Sat Jul 25 2020, 16:20:42 GMT+0800 (中国标准时间) | 正在访存模式
+ Info | LiveUpdateActions | getAccessToken | Sat Jul 25 2020, 16:20:42 GMT+0800 (中国标准时间) | 正在获取访问令牌
+ Info | LiveUpdateActions | fetchSchema | Sat Jul 25 2020, 16:20:42 GMT+0800 (中国标准时间) | 已成功获取访问令牌
+ Info | LiveUpdateActions | fetchSchema | Sat Jul 25 2020, 16:20:43 GMT+0800 (中国标准时间) | 已成功访存模式
+ Info | ImportExportConfig | exportLiveUpdateConfiguration | Sat Jul 25 2020, 16:20:43 GMT+0800 (中国标准时间) | 已成功导出项目配置
+ Error | projectHandler | createReactNativeProject | Sat Jul 25 2020, 16:21:01 GMT+0800 (中国标准时间) | {
+  "killed": false,
+  "code": 128,
+  "signal": null,
+  "cmd": "taskkill /pid 16792 /T /F"
+}
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:271734
+    at ChildProcess.exithandler (child_process.js:315:5)
+    at ChildProcess.emit (events.js:203:13)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:283:5) Info | projectHandler | loadProjectDatabase | Sat Jul 25 2020, 16:21:29 GMT+0800 (中国标准时间) | 正在初始化工作空间的数据库 C:\Users\ShuHuiHan\Desktop\GSSC\IBMCloud\Digital App Builder/app1
+ Info | datasourceDB | init | Sat Jul 25 2020, 16:21:29 GMT+0800 (中国标准时间) | 已初始化数据源数据库
+ Info | dsActionsDB | init | Sat Jul 25 2020, 16:21:29 GMT+0800 (中国标准时间) | 已初始化数据源操作数据库
+ Info | dsAttributesDB | init | Sat Jul 25 2020, 16:21:29 GMT+0800 (中国标准时间) | 已初始化数据源属性数据库
+ Info | dsActionsMoreDB | init | Sat Jul 25 2020, 16:21:29 GMT+0800 (中国标准时间) | 已初始化数据源更多操作数据库
+ Info | appDB | init | Sat Jul 25 2020, 16:21:29 GMT+0800 (中国标准时间) | 已初始化应用程序数据库
+ Info | settingsDB | init | Sat Jul 25 2020, 16:21:29 GMT+0800 (中国标准时间) | 已初始化设置数据库
+Success | projectHandler | loadProjectDatabase | Sat Jul 25 2020, 16:21:29 GMT+0800 (中国标准时间) | 已初始化所有数据库
+ Info | LiveUpdateActions | fetchSchema | Sat Jul 25 2020, 16:21:30 GMT+0800 (中国标准时间) | 正在访存模式
+ Info | LiveUpdateActions | getAccessToken | Sat Jul 25 2020, 16:21:30 GMT+0800 (中国标准时间) | 正在获取访问令牌
+ Info | LiveUpdateActions | fetchSchema | Sat Jul 25 2020, 16:21:30 GMT+0800 (中国标准时间) | 已成功获取访问令牌
+ Info | LiveUpdateActions | fetchSchema | Sat Jul 25 2020, 16:21:30 GMT+0800 (中国标准时间) | 已成功访存模式
+ Info | ImportExportConfig | exportLiveUpdateConfiguration | Sat Jul 25 2020, 16:21:30 GMT+0800 (中国标准时间) | 已成功导出项目配置
+ Error | projectHandler | createReactNativeProject | Sat Jul 25 2020, 16:21:33 GMT+0800 (中国标准时间) | {
+  "killed": false,
+  "code": 128,
+  "signal": null,
+  "cmd": "taskkill /pid 16792 /T /F"
+}
+Error
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174652
+    at f (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:173978)
+    at Object.error (file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:6377:174534)
+    at file:///C:/Users/ShuHuiHan/AppData/Local/IBMDigitalAppBuilder/app-8.1.3/resources/app.asar/dist/renderer.prod.js:1:271734
+    at ChildProcess.exithandler (child_process.js:315:5)
+    at ChildProcess.emit (events.js:203:13)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:283:5) Info | projectHandler | loadProjectDatabase | Sat Jul 25 2020, 16:23:34 GMT+0800 (中国标准时间) | 正在初始化工作空间的数据库 C:\Users\ShuHuiHan\Desktop\GSSC\IBMCloud\Digital App Builder/app1
+ Info | datasourceDB | init | Sat Jul 25 2020, 16:23:35 GMT+0800 (中国标准时间) | 已初始化数据源数据库
+ Info | dsActionsDB | init | Sat Jul 25 2020, 16:23:35 GMT+0800 (中国标准时间) | 已初始化数据源操作数据库
+ Info | dsAttributesDB | init | Sat Jul 25 2020, 16:23:35 GMT+0800 (中国标准时间) | 已初始化数据源属性数据库
+ Info | dsActionsMoreDB | init | Sat Jul 25 2020, 16:23:35 GMT+0800 (中国标准时间) | 已初始化数据源更多操作数据库
+ Info | appDB | init | Sat Jul 25 2020, 16:23:35 GMT+0800 (中国标准时间) | 已初始化应用程序数据库
+ Info | settingsDB | init | Sat Jul 25 2020, 16:23:35 GMT+0800 (中国标准时间) | 已初始化设置数据库
+Success | projectHandler | loadProjectDatabase | Sat Jul 25 2020, 16:23:35 GMT+0800 (中国标准时间) | 已初始化所有数据库
